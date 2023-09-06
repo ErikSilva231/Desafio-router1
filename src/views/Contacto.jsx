@@ -13,7 +13,7 @@ const Contacto = () => {
 <>
     <Container className="text-center">
     <h1 className="pt-5">
-    🎂 ¡Estas preparado para crear <span className="fw-bold">Tu torta perfecta?</span> 🎂
+    🎂 ¿Estas preparado para crear <span className="fw-bold">Tu torta perfecta?</span> 🎂
     </h1>
     <h4>Llena el formulario y pronto uno de nosotros te podrá ayudar</h4>
     
